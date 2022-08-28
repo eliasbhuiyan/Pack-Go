@@ -1,0 +1,1091 @@
+@media (min-width: 768px) and (max-width: 991.98px) {
+        /* ===========================
+            menu part start
+        =========================== */
+        .main_menu button {
+                border: none;
+        }
+
+        .main_menu button i {
+                color: #000;
+        }
+
+        .main_menu ul {
+                width: 50%;
+                text-align: center;
+        }
+
+        .main_menu ul li a {
+                margin-left: 0;
+                border-radius: 17px;
+                -webkit-border-radius: 17px;
+                -moz-border-radius: 17px;
+                -ms-border-radius: 17px;
+                -o-border-radius: 17px;
+        }
+
+        .main_menu ul li:hover a {
+                color: #fff !important;
+                background: #007F5F;
+
+        }
+
+        .main_menu .button {
+                width: 100%;
+        }
+
+        .main_menu .button a {
+                width: 100%;
+                text-align: center;
+                padding: 10px 35px;
+        }
+        /* ===========================
+            menu part end
+        =========================== */
+        /* ===========================
+            banner part start
+        =========================== */
+        #banner {
+                margin-top: 100px;
+                background: none;
+        }
+        .banner_text ul {
+                width: 100%;
+        }
+        .banner_text ul li input {
+                margin-left: 20px;
+                width: 145px;
+        }
+        /* ===========================
+            banner part end
+        =========================== */
+        /* ===========================
+            benefit part start
+        =========================== */
+        #benefit {
+                padding: 100px 0;
+        }
+        /* ===========================
+            benefit part end
+        =========================== */
+        /* ===========================
+            popular part start
+        =========================== */
+        #popular {
+                padding-bottom: 100px;
+        }
+        .popular_body {
+                flex-wrap: wrap;
+                justify-content: space-around;
+        }
+        .popular_items {
+                width: 45%;
+                margin-bottom: 30px;
+        }
+        /* ===========================
+            popular part end
+        =========================== */
+        /* ===========================
+            discover part start
+        =========================== */
+        #discover {
+                padding: 100px 0;
+        }
+        .discover_text{
+                margin-bottom: 30px;
+        }
+        .discover_text h2 {
+                margin-bottom: 20px;
+        }
+        /* ===========================
+            discover part end
+        =========================== */
+        /* ===========================
+            destination part start
+        =========================== */
+        #destination {
+                padding: 100px 0;
+        }
+        .destination_text a {
+                margin-bottom: 30px;
+        }
+        /* ===========================
+            destination part end
+        =========================== */
+        /* ===========================
+            explore part start
+        =========================== */
+        .explore_head{
+                margin-top: 150px;
+        }
+        .explore_nav ul li{
+                margin-bottom: 10px;
+        }
+        /* ===========================
+            explore part end
+        =========================== */
+        /* ===========================
+            testimonial part start
+        =========================== */
+        #testimonial {
+                padding: 100px 0;
+        }
+        .testimonial_text {
+                margin-top: 0px;
+                margin-left: 0px;
+        }
+        .test_img2 {
+                position: absolute;
+                top: 160px;
+                right: 207px;
+        }
+        .test_img3 {
+                position: absolute;
+                top: 40px;
+                right: 235px;
+        }
+        .test_img5 {
+                position: absolute;
+                top: 217px;
+                right: 0;
+        }
+        .test_img4 {
+                position: absolute;
+                bottom: 148px;
+                right: 150px;
+        }
+        /* ===========================
+            testimonial part end
+        =========================== */
+        /* ===========================
+            sub part start
+        =========================== */
+        .sub_search {
+                width: 100%;
+        }
+        /* ===========================
+            sub part end
+        =========================== */
+        /* ===========================
+            foot part start
+        =========================== */
+        #footer {
+                padding: 100px 0;
+        }
+        .social_part {
+                margin: 0 auto 20px;
+        }
+        /* ===========================
+            foot part end
+        =========================== */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+         /* ===========================
+            menu part start
+        =========================== */
+        .main_menu {
+                margin-top: 30px;
+        }
+
+        .main_menu button {
+                border: none;
+        }
+
+        .main_menu button i {
+                color: #000;
+        }
+
+        .main_menu ul {
+                width: 50%;
+                text-align: center;
+        }
+
+        .main_menu ul li a {
+                margin-left: 0;
+                border-radius: 17px;
+                -webkit-border-radius: 17px;
+                -moz-border-radius: 17px;
+                -ms-border-radius: 17px;
+                -o-border-radius: 17px;
+        }
+
+        .main_menu ul li:hover a {
+                color: #fff !important;
+                background: #007F5F;
+
+        }
+
+        .main_menu .button {
+                width: 100%;
+        }
+
+        .main_menu .button a {
+                width: 100%;
+                text-align: center;
+                padding: 10px 35px;
+        }
+
+        /* ===========================
+            menu part end
+        =========================== */
+        /* ===========================
+            banner part start
+        =========================== */
+        #banner {
+                margin-top: 80px;
+                background: none;
+                height: auto;
+        }
+
+        .banner_text h1 {
+                width: 100%;
+                font-size: 30px;
+                line-height: 40px;
+        }
+
+        .banner_text p {
+                width: 100%;
+                font-size: 14px;
+                margin: 20px 0 30px;
+        }
+
+        .banner_text ul {
+                width: 100%;
+                padding: 10px;
+                margin-top: 30px;
+                display: flex;
+        }
+
+        .banner_text ul a {
+                padding: auto;
+                margin-top: 0px;
+        }
+
+        .banner_text ul li label {
+                margin-bottom: 0;
+        }
+
+        .banner_text ul li label span {
+                padding: 0 0 0 10px;
+        }
+
+        .banner_text ul li input {
+                margin-left: 0;
+                width: 145px;
+        }
+
+        /* ===========================
+            banner part end
+        =========================== */
+        /* ===========================
+            benefit part start
+        =========================== */
+        #benefit {
+                padding: 80px 0;
+        }
+
+        .benefit_head h2 {
+                font-size: 30px;
+                margin-bottom: 10px;
+        }
+
+        .benefit_head p {
+                margin: 0 auto;
+                width: 100%;
+                font-size: 14px;
+                line-height: 20px;
+                margin-bottom: 30px;
+        }
+
+        .benefit_item {
+                padding: 20px 10px 10px;
+        }
+
+        .benefit_item h4 {
+                margin: 20px 0 10px;
+        }
+
+        .benefit_item p {
+                font-size: 14px;
+                padding-bottom: 10px;
+                width: 100%;
+        }
+
+        /* ===========================
+            benefit part end
+        =========================== */
+        /* ===========================
+            popular part start
+        =========================== */
+        #popular {
+                padding-bottom: 40px;
+        }
+
+        .popular_head h2 {
+                font-size: 30px;
+                margin-bottom: 20px;
+        }
+
+        .popular_head p {
+                width: 100%;
+                font-size: 14px;
+                line-height: 20px;
+                margin-bottom: 30px;
+        }
+
+        .popular_items {
+                width: 100%;
+                margin: 20px;
+        }
+
+        .popular_items ul {
+                margin-top: 20px;
+        }
+
+        .popular_items h4 {
+                margin-bottom: 10px;
+        }
+
+        .popular_items p {
+                font-size: 14px;
+                line-height: 20px;
+                margin-bottom: 10px;
+        }
+
+        .popular_items h6 {
+                font-size: 20px;
+                margin-bottom: 10px;
+        }
+
+        /* ===========================
+            popular part end
+        =========================== */
+        /* ===========================
+            discover part start
+        =========================== */
+        #discover {
+                padding: 40px 0;
+        }
+
+        .discover_text h2 {
+                width: 100%;
+                font-size: 30px;
+        }
+
+        .discover_text p {
+                width: 100%;
+                font-size: 14px;
+                line-height: 20px;
+        }
+
+        .discover_text ul {
+                margin-top: 20px;
+                margin-bottom: 20px;
+        }
+
+        .discover_card {
+                padding: 20px;
+        }
+
+        .discover_text a {
+                margin-bottom: 20px;
+        }
+
+        /* ===========================
+            discover part end
+        =========================== */
+        /* ===========================
+            destination part start
+        =========================== */
+        #destination {
+                padding: 40px 0;
+        }
+
+        .destination_text h2 {
+                font-size: 30px;
+        }
+
+        .destination_text {
+                margin-top: 0;
+        }
+
+        .destination_text p {
+                width: 100%;
+                font-size: 14px;
+                margin: 10px 0 20px;
+        }
+
+        .destination_text a {
+                margin-bottom: 20px;
+        }
+
+        .destination_picture .picture1 {
+                width: 55%;
+                height: auto;
+        }
+
+        .destination_picture .picture2 {
+                width: 55%;
+                height: auto;
+                top: 100px;
+                left: 100px;
+        }
+
+        .destination_picture ul {
+                margin-top: 10px;
+        }
+
+        .destination_picture ul li p {
+                font-size: 12px;
+                margin-bottom: 0px;
+        }
+
+        .dot_img {
+                top: 30px;
+                left: 40%;
+                z-index: -1;
+        }
+
+        .destination_text ul {
+                margin-bottom: 20px;
+        }
+
+        .destination_text ul li {
+                margin-bottom: 0px;
+        }
+
+        .accordion_main {
+                margin-bottom: 20px;
+        }
+
+        .accordion_main .accordion-item {
+                width: 100%;
+        }
+
+        .destination_picture .position_text li p {
+                padding: 8px 10px;
+                font-size: 14px;
+                margin-bottom: 5px;
+        }
+
+        .destination_picture .position_text {
+                left: -10px;
+                z-index: 1;
+        }
+
+        /* ===========================
+            destination part end
+        =========================== */
+        /* ===========================
+            explore part start
+        =========================== */
+        #explore {
+                padding-top: 150px;
+        }
+
+        .explore_head h2 {
+                font-size: 30px;
+        }
+
+        .explore_head p {
+                width: 100%;
+                font-size: 14px;
+                line-height: 20px;
+                margin: 10px 0 20px;
+        }
+
+        .explore_nav ul li button {
+                font-size: 14px;
+                padding: 6px 10px;
+                margin-bottom: 10px;
+        }
+
+        .explore_items span {
+                margin: 10px 0 0px;
+        }
+
+        .explore_items p {
+                font-size: 14px;
+                line-height: 20px;
+                margin: 5PX 0 10px;
+        }
+
+        .explore_body1 .slick-dots li button,
+        .explore_body2 .slick-dots li button,
+        .explore_body3 .slick-dots li button,
+        .explore_body4 .slick-dots li button,
+        .explore_body5 .slick-dots li button {
+                height: 16px;
+        }
+
+        /* ===========================
+            explore part end
+        =========================== */
+        /* ===========================
+            testimonial part start
+        =========================== */
+        #testimonial {
+                padding: 80px 0;
+        }
+
+        .testimonial_pictures {
+                display: none;
+        }
+
+        .testimonial_text {
+                margin-top: 0px;
+                margin-left: 0px;
+        }
+
+        .test_item h2 {
+                font-size: 30px;
+                margin-bottom: 10px;
+        }
+
+        .test_item img {
+                width: 25px;
+                height: 18px;
+        }
+
+        .test_item p {
+                font-size: 16px;
+                margin: 10px 0;
+        }
+
+        .test_item h2 {
+                font-size: 40px;
+                margin-bottom: 15px;
+            }
+
+        /* ===========================
+            testimonial part end
+        =========================== */
+        /* ===========================
+            subscribe part start
+        =========================== */
+        #subscribe {
+                padding: 80px 0;
+        }
+
+        .sub_text h2 {
+                width: 100%;
+                font-size: 30px;
+        }
+
+        .sub_text p {
+                width: 100%;
+                font-size: 14px;
+                margin: 10px auto 20px;
+                line-height: 20px;
+        }
+
+        .sub_search {
+                padding: 10px;
+                width: 100%;
+        }
+
+        .sub_search button {
+                padding: 5px 10px;
+                border-radius: 17px;
+                -webkit-border-radius: 17px;
+                -moz-border-radius: 17px;
+                -ms-border-radius: 17px;
+                -o-border-radius: 17px;
+        }
+
+        /* ===========================
+            subscribe part end
+        =========================== */
+        /* ===========================
+            footer part start
+        =========================== */
+        #footer {
+                padding: 80px 0 50px;
+        }
+
+        .foot_log {
+                width: 140px;
+        }
+
+        .social_icon {
+                margin: 10px 0;
+        }
+
+        .social_icon .fb {
+                width: 30px;
+                margin-right: 20px;
+        }
+
+        .footer_txt {
+                margin-top: 20px;
+        }
+
+        .footer_txt ul li h4 {
+                margin-bottom: 0px;
+        }
+
+        .footer_txt ul li a {
+                margin-top: 10px;
+        }
+
+        /* ===========================
+            footer part end
+        =========================== */
+}
+
+@media (max-width: 575.98px) {
+
+        /* ===========================
+            menu part start
+        =========================== */
+        .main_menu {
+                margin-top: 10px;
+        }
+
+        .main_menu button {
+                border: none;
+        }
+
+        .main_menu button i {
+                color: #000;
+        }
+
+        .main_menu ul {
+                width: 50%;
+                text-align: center;
+        }
+
+        .main_menu ul li a {
+                margin-left: 0;
+                border-radius: 17px;
+                -webkit-border-radius: 17px;
+                -moz-border-radius: 17px;
+                -ms-border-radius: 17px;
+                -o-border-radius: 17px;
+        }
+
+        .main_menu ul li:hover a {
+                color: #fff !important;
+                background: #007F5F;
+
+        }
+
+        .main_menu .button {
+                width: 100%;
+        }
+
+        .main_menu .button a {
+                width: 100%;
+                text-align: center;
+                padding: 10px 35px;
+        }
+
+        /* ===========================
+            menu part end
+        =========================== */
+        /* ===========================
+            banner part start
+        =========================== */
+        #banner {
+                margin-top: 80px;
+                background: none;
+                height: auto;
+        }
+
+        .banner_text h1 {
+                width: 100%;
+                font-size: 30px;
+                line-height: 40px;
+        }
+
+        .banner_text p {
+                width: 100%;
+                font-size: 14px;
+                margin: 20px 0 30px;
+        }
+
+        .banner_text ul li {
+                display: block;
+        }
+
+        .banner_text ul {
+                width: 100%;
+                padding: 10px;
+                margin-top: 30px;
+                display: block;
+        }
+
+        .banner_text ul a {
+                padding: 8px 50px;
+                margin-top: 20px;
+        }
+
+        .banner_text ul li label {
+                margin-bottom: 0;
+        }
+
+        .banner_text ul li label span {
+                padding: 0 0 0 10px;
+        }
+
+        .banner_text ul li input {
+                margin-left: 20px;
+        }
+
+        /* ===========================
+            banner part end
+        =========================== */
+        /* ===========================
+            benefit part start
+        =========================== */
+        #benefit {
+                padding: 80px 0;
+        }
+
+        .benefit_head h2 {
+                font-size: 30px;
+                margin-bottom: 10px;
+        }
+
+        .benefit_head p {
+                margin: 0 auto;
+                width: 100%;
+                font-size: 14px;
+                line-height: 20px;
+                margin-bottom: 30px;
+        }
+
+        .benefit_item {
+                padding: 20px 10px 10px;
+        }
+
+        .benefit_item h4 {
+                margin: 20px 0 10px;
+        }
+
+        .benefit_item p {
+                font-size: 14px;
+                padding-bottom: 10px;
+        }
+
+        /* ===========================
+            benefit part end
+        =========================== */
+        /* ===========================
+            popular part start
+        =========================== */
+        #popular {
+                padding-bottom: 40px;
+        }
+
+        .popular_head h2 {
+                font-size: 30px;
+                margin-bottom: 20px;
+        }
+
+        .popular_head p {
+                width: 100%;
+                font-size: 14px;
+                line-height: 20px;
+                margin-bottom: 30px;
+        }
+
+        .popular_items {
+                width: 100%;
+                margin: 20px;
+        }
+
+        .popular_items ul {
+                margin-top: 20px;
+        }
+
+        .popular_items h4 {
+                margin-bottom: 10px;
+        }
+
+        .popular_items p {
+                font-size: 14px;
+                line-height: 20px;
+                margin-bottom: 10px;
+        }
+
+        .popular_items h6 {
+                font-size: 20px;
+                margin-bottom: 10px;
+        }
+
+        /* ===========================
+            popular part end
+        =========================== */
+        /* ===========================
+            discover part start
+        =========================== */
+        #discover {
+                padding: 40px 0;
+        }
+
+        .discover_text h2 {
+                width: 100%;
+                font-size: 30px;
+        }
+
+        .discover_text p {
+                width: 100%;
+                font-size: 14px;
+                line-height: 20px;
+        }
+
+        .discover_text ul {
+                margin-top: 20px;
+                margin-bottom: 20px;
+        }
+
+        .discover_card {
+                padding: 20px;
+        }
+
+        .discover_text a {
+                margin-bottom: 20px;
+        }
+
+        /* ===========================
+            discover part end
+        =========================== */
+        /* ===========================
+            destination part start
+        =========================== */
+        #destination {
+                padding: 40px 0;
+        }
+
+        .destination_text h2 {
+                font-size: 30px;
+        }
+
+        .destination_text {
+                margin-top: 0;
+        }
+
+        .destination_text p {
+                width: 100%;
+                font-size: 14px;
+                margin: 10px 0 20px;
+        }
+
+        .destination_text a {
+                margin-bottom: 20px;
+        }
+
+        .destination_picture .picture1 {
+                width: 55%;
+                height: auto;
+        }
+
+        .destination_picture .picture2 {
+                width: 55%;
+                height: auto;
+                top: 100px;
+                left: 100px;
+        }
+
+        .destination_picture ul {
+                margin-top: 10px;
+        }
+
+        .destination_picture ul li p {
+                font-size: 12px;
+                margin-bottom: 0px;
+        }
+
+        .dot_img {
+                top: 30px;
+                left: 40%;
+                z-index: -1;
+        }
+
+        .destination_text ul {
+                margin-bottom: 20px;
+        }
+
+        .destination_text ul li {
+                margin-bottom: 0px;
+        }
+
+        .accordion_main {
+                margin-bottom: 20px;
+        }
+
+        .accordion_main .accordion-item {
+                width: 100%;
+        }
+
+        .destination_picture .position_text li p {
+                padding: 8px 10px;
+                font-size: 14px;
+                margin-bottom: 5px;
+        }
+
+        .destination_picture .position_text {
+                left: -10px;
+                z-index: 1;
+        }
+
+        /* ===========================
+            destination part end
+        =========================== */
+        /* ===========================
+            explore part start
+        =========================== */
+        #explore {
+                padding-top: 90px;
+        }
+
+        .explore_head h2 {
+                font-size: 30px;
+        }
+
+        .explore_head p {
+                width: 100%;
+                font-size: 14px;
+                line-height: 20px;
+                margin: 10px 0 20px;
+        }
+
+        .explore_nav ul li button {
+                font-size: 14px;
+                padding: 6px 10px;
+                margin-bottom: 10px;
+        }
+
+        .explore_items span {
+                margin: 10px 0 0px;
+        }
+
+        .explore_items p {
+                font-size: 14px;
+                line-height: 20px;
+                margin: 5PX 0 10px;
+        }
+
+        .explore_body1 .slick-dots li button,
+        .explore_body2 .slick-dots li button,
+        .explore_body3 .slick-dots li button,
+        .explore_body4 .slick-dots li button,
+        .explore_body5 .slick-dots li button {
+                height: 16px;
+        }
+
+        /* ===========================
+            explore part end
+        =========================== */
+        /* ===========================
+            testimonial part start
+        =========================== */
+        #testimonial {
+                padding: 80px 0;
+        }
+
+        .testimonial_pictures {
+                display: none;
+        }
+
+        .testimonial_text {
+                margin-top: 0px;
+                margin-left: 0px;
+        }
+
+        .test_item h2 {
+                font-size: 30px;
+                margin-bottom: 10px;
+        }
+
+        .test_item img {
+                width: 25px;
+                height: 18px;
+        }
+
+        .test_item p {
+                font-size: 14px;
+                margin: 10px 0;
+        }
+
+        .test_item h4 {
+                font-size: 18px;
+        }
+
+        /* ===========================
+            testimonial part end
+        =========================== */
+        /* ===========================
+            subscribe part start
+        =========================== */
+        #subscribe {
+                padding: 80px 0;
+        }
+
+        .sub_text h2 {
+                width: 100%;
+                font-size: 30px;
+        }
+
+        .sub_text p {
+                width: 100%;
+                font-size: 14px;
+                margin: 10px auto 20px;
+                line-height: 20px;
+        }
+
+        .sub_search {
+                padding: 10px;
+                width: 100%;
+        }
+
+        .sub_search button {
+                padding: 5px 10px;
+                border-radius: 17px;
+                -webkit-border-radius: 17px;
+                -moz-border-radius: 17px;
+                -ms-border-radius: 17px;
+                -o-border-radius: 17px;
+        }
+
+        /* ===========================
+            subscribe part end
+        =========================== */
+        /* ===========================
+            footer part start
+        =========================== */
+        #footer {
+                padding: 80px 0 50px;
+        }
+
+        .foot_log {
+                width: 140px;
+        }
+
+        .social_icon {
+                margin: 10px 0;
+        }
+
+        .social_icon .fb {
+                width: 30px;
+                margin-right: 20px;
+        }
+
+        .footer_txt {
+                margin-top: 20px;
+        }
+
+        .footer_txt ul li h4 {
+                margin-bottom: 0px;
+        }
+
+        .footer_txt ul li a {
+                margin-top: 10px;
+        }
+
+        /* ===========================
+            footer part end
+        =========================== */
+}
